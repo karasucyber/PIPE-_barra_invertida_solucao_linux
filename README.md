@@ -1,4 +1,4 @@
-# PIPE_barra_invertida_solucão_linux/
+# PIPE+_barra_invertida_solucão_linux/
 
 
 Bom, eu tive problemas em utilizar | ou conhecido como "PIPE" no linux, então encontrei essa solução para o meu problema.
