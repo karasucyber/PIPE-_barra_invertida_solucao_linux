@@ -34,6 +34,7 @@ Funcionalidade de cada palavra !
 ![Captura de tela de 2022-12-03 01-06-12](https://user-images.githubusercontent.com/115439232/205421940-ad3a2bb0-a91a-4603-b09d-9405efd27b7e.png)
 
 # Caso realize esse comando novamente vai perceber que seu keycode foi alterado, agora basta testar !
+
 ![Captura de tela de 2022-12-03 00-25-07](https://user-images.githubusecontent.com/115439232/205420488-c9223592-c3b6-4a97-813a-85af0c9ebddb.png) 
 
 # Espero ter ajudado...
