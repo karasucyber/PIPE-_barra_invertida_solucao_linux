@@ -40,9 +40,7 @@ Funcionalidade de cada palavra !
 
 
 #Após realizar essa sequênica você terá entrado no bin 
-
-![Captura de tela de 2023-02-21 12-25-24](https://user-images.githubusercontent.com/115439232/220388612-cd59a23b-61ff-4980-9579-e7c85c39dbca.png)
-
+![Captura de tela de 2023-02-21 12-26-37](https://user-images.githubusercontent.com/115439232/220388264-698fe390-3f71-4a54-a630-1dd9501bd994.png)
 #Agora vamos usar o vim e criar um arquivo, importante saber os comandos básicos.
 
 ![Captura de tela de 2023-02-21 12-27-26](https://user-images.githubusercontent.com/115439232/220388946-60f07653-daec-4cfa-b779-7e0e7b032789.png)
