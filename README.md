@@ -37,7 +37,7 @@ Funcionalidade de cada palavra !
 
 # Agora vamos deixar ele permanente...
 ![Captura de tela de 2023-02-21 12-25-24](https://user-images.githubusercontent.com/115439232/220388197-3bbd480e-0e6d-4c30-91b7-f6b65bd814a1.png)
-![Captura de tela de 2023-02-21 12-26-37](https://user-images.githubusercontent.com/115439232/220388264-698fe390-3f71-4a54-a630-1dd9501bd994.png)
+
 
 #Após realizar essa sequênica você terá entrado no bin 
 
