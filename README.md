@@ -36,3 +36,23 @@ Funcionalidade de cada palavra !
 # Caso realize esse comando novamente vai perceber que seu keycode foi alterado, agora basta testar !
 
 # Agora vamos deixar ele permanente...
+![Captura de tela de 2023-02-21 12-25-24](https://user-images.githubusercontent.com/115439232/220388197-3bbd480e-0e6d-4c30-91b7-f6b65bd814a1.png)
+![Captura de tela de 2023-02-21 12-26-37](https://user-images.githubusercontent.com/115439232/220388264-698fe390-3f71-4a54-a630-1dd9501bd994.png)
+
+#Após realizar essa sequênica você terá entrado no bin 
+
+![Captura de tela de 2023-02-21 12-25-24](https://user-images.githubusercontent.com/115439232/220388612-cd59a23b-61ff-4980-9579-e7c85c39dbca.png)
+
+#Agora vamos usar o vim e criar um arquivo, importante saber os comandos básicos.
+
+![Captura de tela de 2023-02-21 12-27-26](https://user-images.githubusercontent.com/115439232/220388946-60f07653-daec-4cfa-b779-7e0e7b032789.png)
+
+# Dentro do vim vamos passar as informações.
+
+![Captura de tela de 2023-02-21 12-30-13](https://user-images.githubusercontent.com/115439232/220389249-93acb07b-ad2d-4df9-8fe1-4b9cc8376ccd.png)
+
+#Para finalizar e finalmente tornar as modificações permanete vamos executar o seguinte comando.
+
+![Captura de tela de 2023-02-21 12-27-49](https://user-images.githubusercontent.com/115439232/220389746-154c29a6-dc37-493b-bbd4-08d0af1c8313.png)
+
+# Perfeito agora quandos seu pc for iniciado ele irá executar as modificações acima tornando elas permamente espero ter ajudado.
